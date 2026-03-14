@@ -59,3 +59,5 @@ pre-commit install
 ```bash
 pre-commit run --all-files
 ```
+
+[![Maintainability](https://qlty.sh/gh/rrfy/projects/MRPO_1/maintainability.svg)](https://qlty.sh/gh/rrfy/projects/MRPO_1)
